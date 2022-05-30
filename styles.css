@@ -1,0 +1,21 @@
+.recipe-link {
+    font-size: 30px;
+    text-align: center;
+}
+
+.baguette{
+    color: red;
+}
+
+.boston {
+    color:green;
+}
+
+.fish {
+ color:blue;
+}
+
+.ingredients-list-element {
+    background-color: aquamarine;
+    font-weight: bold;
+}
